@@ -4,9 +4,6 @@
 
 - [Update](#Update)
 - [Introduction](#Introduction)
-- [Models](#Models)
-  - [A Certain Magical Index](#Index)
-  - [Shiki Natsume](#Natsume)
 - [How to use](#Usage)
 - [Contact](#Contact)
 - [Acknowledgement](#Ack)
@@ -28,33 +25,6 @@ Inspired by [Rcell](https://space.bilibili.com/343303724/?spm_id_from=333.999.0.
 
 If you are interested in the performance of Soft-VC, you may refer to [this demo](https://colab.research.google.com/drive/11L10uz2VsF3_YCanXKYiA3mo9eMW4ueL?usp=sharing). I've trained a aoustic model for
 3 days with about 2000 audio clips. 
-
-<h2 id="Models">Models</h2>
-
-<h3 id="Index">A Certain Magical Index</h3>
-
-![index](assets/cover5.png)
-
-- Description
-
-|Speaker|ID|
-|-|-|
-|一方通行|0|
-|上条当麻|1|
-|御坂美琴|2|
-|白井黑子|3|
-
-- Demo
-  - Colab: [Sovits (魔法禁书目录)](https://colab.research.google.com/drive/1OjfH2zpRkLFRp92aU6jAGhqZNopfZMjC?usp=sharing)
-  - BILIBILI: [基于Sovits的4人声音转换模型](https://www.bilibili.com/video/BV1zY4y1T71W?share_source=copy_web&vd_source=630b87174c967a898cae3765fba3bfa8)
-
-<h3 id="Natsume">Shiki Natsume</h3>
-
-![natsume](assets/cover2.png)
-
-- Description
-
-- Demo
 
 <h2 id="Usage">How to use</h2>
 
